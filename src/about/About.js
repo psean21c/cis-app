@@ -4,8 +4,8 @@ import '../App.css';
 function About() {
   return (
     <div className="App">
-      <h1>Accenture Application </h1>
-      <h3>created by Zafin team</h3>
+      <h1>Connect International School </h1>
+      <h3>CIS</h3>
     </div>
   );
 }
