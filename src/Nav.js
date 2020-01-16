@@ -10,7 +10,7 @@ function Nav() {
 
   return (
     <nav>
-      <h3>Accenture-App</h3>
+      <h3>Connect</h3>
       <ul className="nav-links">
         <Link style={navStyle} to="/about">
           <li>About</li>
